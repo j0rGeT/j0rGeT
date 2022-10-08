@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @j0rGeT
-- 👀 I’m interested in ...
+- 👀 I’m interested in k8s,go,storage,network
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 j0rGeT/j0rGeT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
